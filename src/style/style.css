@@ -1,0 +1,7 @@
+#main-content {
+  margin-top: 30px;
+}
+
+.list-group-item:hover {
+  background-color: #f2f2f2;
+}
